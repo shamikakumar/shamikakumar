@@ -21,4 +21,4 @@ Skills:
 <br />
 <br />
 Get in touch:
-<a href="https://www.linkedin.com/in/shamika-kumar-6a3b75179/"> <img width="45px" align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-47-189764.png"> </a>
+<a href="https://www.linkedin.com/in/shamikakumar"> <img width="45px" align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-47-189764.png"> </a>
