@@ -12,7 +12,7 @@ Skills:
 
 <br />
 <br />
-<img align="left" alt="Shamika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shamikakumar&hide=stars,commits,issues&show_icons=true" />
+<img align="left" alt="Shamika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shamikakumar&hide=stars,issues&show_icons=true" />
 <br />
 <br />
 <br />
