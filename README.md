@@ -1,4 +1,4 @@
-Hey there! I'm Shamika Kumar, a Cloud Engineer at Oracle, based in Bangalore, India. I enjoy programming and building software. I'm looking to contribute to open source projects and improve my skillset along the way.
+Hey there! I'm Shamika Kumar, a Computer Science Graduate at USC. I enjoy programming and building software. I'm looking to contribute to open source projects and improve my skillset along the way.
 
 Skills:
 
