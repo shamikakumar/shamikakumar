@@ -1,4 +1,4 @@
-Hey there! I'm Shamika Kumar, a Computer Science graduate student at USC. I enjoy programming and building software. I'm looking to contribute to open source projects and improve my skillset along the way.
+Hey there! I'm Shamika Kumar, a Computer Science Engineer with a Master's degree from USC. I enjoy programming and building software. I'm looking to contribute to open source projects and improve my skillset along the way.
 
 Skills:
 
